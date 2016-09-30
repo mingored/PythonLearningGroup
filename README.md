@@ -1,4 +1,4 @@
 # PythonLearningGroup
-A python Learnin group conformed by people from argentina
-lean la wiki!!!
-read the wiki!!!
+Un grupo de estudio de Python formado por gente de todas partes de Argentina.
+
+Lean La wiki!!!...
